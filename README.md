@@ -1,6 +1,6 @@
 # ENTR-451 AirBnB Chicago – Practice Assignment
 
-Data is from Inside Airbnb – http://insideairbnb.com/get-the-data.html - using Listings and Reviews only
+Data is from Inside Airbnb –  - using Listings and Reviews only
 
 Start by copying this repo to your own GitHub account, by using the "Use this template" button. Then, open in Gitpod.
 
